@@ -1,0 +1,2 @@
+# SpringBootRestApiException
+Rest Api Exception
